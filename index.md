@@ -9,6 +9,13 @@ excerpt: 'A site for publishers and users of open data'
 intro: 
   - excerpt: 'Publishing and using open data ...'
 feature_row:
+  - image_path: /assets/images/what-is-open-data.png
+    alt: "what is open data"
+    title: "What is open data?"
+    excerpt: "Get a quick introduction to what open data is."
+    url: "/news/open-data/"
+    btn_class: "btn--primary"
+    btn_label: "Learn More"
   - image_path: /assets/images/publish-data.png
     alt: "publishing"
     title: "Publishing open data"
@@ -23,6 +30,9 @@ feature_row:
     url: "/use/intro/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
+
+news: 
+  - excerpt: 'Recent posts:'
 feature_row2:
   - image_path: /assets/images/node-red-icon.png
     alt: "prototyping"
@@ -44,5 +54,7 @@ feature_row2:
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
+
+{% include feature_row id="news" type="center" %}
 
 {% include feature_row id="feature_row2" %}
