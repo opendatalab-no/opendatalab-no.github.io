@@ -10,7 +10,7 @@ Lenke til spørreundersøkelsen:
 [Norsk version](https://docs.google.com/forms/d/e/1FAIpQLSdWjJZ19FL8zNeLX3f1Qg7tCLU7vGRRMzq1-2nkYSuq7Rhbuw/viewform?usp=send_form)
 
 
-Open data is very important for digital innovation. By relying to our survey, you will help us find out more about barriers and enablers for using open data.
+Open data is very important for digital innovation. By replying to our survey, you will help us find out more about barriers and enablers for using open data.
 The results will e.g. be used to give advice to publishers of open data.
 Link to the survey:
 

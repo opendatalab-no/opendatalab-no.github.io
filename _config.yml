@@ -15,8 +15,8 @@ title                    : "OpenDataLab.no"
 title_separator          : "-"
 name                     : &name "SINTEF" # &name is a YAML anchor which can be *referenced later
 description              : &description "A site for publishers and users of open data"
-url                      : http://opendatalab.no/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/" # the subpath of your site, e.g. "/blog"
+url                      : http://opendatalab.no # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "opendatalab-no/opendatalab-no.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
@@ -185,13 +185,10 @@ kramdown:
 
 # Collections
 collections:
-  docs:
+  publish:
     output: true
     permalink: /:collection/:path/
-  recipes:
-    output: true
-    permalink: /:collection/:path/
-  pets:
+  use:
     output: true
     permalink: /:collection/:path/
   portfolio:
@@ -219,10 +216,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _docs
+  # _publish
   - scope:
       path: ""
-      type: docs
+      type: publish
     values:
       layout: single
       read_time: false
@@ -230,25 +227,19 @@ defaults:
       share: false
       comments: false
       sidebar:
-        nav: "docs"
-  # _recipes
+        nav: "publish"
+  # _use
   - scope:
       path: ""
-      type: recipes
+      type: use
     values:
       layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _pets
-  - scope:
-      path: ""
-      type: pets
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "use"
   # _portfolio
   - scope:
       path: ""

@@ -1,0 +1,23 @@
+---
+title: "Introduction"
+permalink: /publish/intro/
+excerpt: "Introduction to publishing of open data"
+last_modified_at: 2018-03-15T14:00:00 +01:00
+redirect_from:
+  - /theme-setup/
+toc: true
+---
+
+These pages provides information about publishing of open data. The pages are mainly organized around tasks that are usually part of the process of publishing open data. 
+
+The pages are currently based on an initial analysis of tasks involved in publishing and using of open data, and will continiously be enhanced as more feedback and experiences is collected.
+
+
+## Veileder
+
+[Difi's veileder](https://data.norge.no/document/del-og-skap-verdier-veileder-i-tilgjengeliggjøring-av-offentlige-data)
+
+
+## Guidelines
+
+[Difi's guidelines](https://data.norge.no/retningslinjer-ved-tilgjengeliggjøring-av-offentlige-data)
