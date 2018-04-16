@@ -7,7 +7,7 @@ header:
   caption:
 excerpt: 'A site for publishers and users of open data'
 intro: 
-  - excerpt: 'Publishing and using open data ...'
+  - excerpt: 'This lab is hosted by SINTEF. The purpose is to experiment with support and tools for overcomming barriers to publication and use of open data. We would like to test the lab in collaboration with hackatons and other initiatives for use of (open) data.'
 feature_row:
   - image_path: /assets/images/what-is-open-data.png
     alt: "what is open data"

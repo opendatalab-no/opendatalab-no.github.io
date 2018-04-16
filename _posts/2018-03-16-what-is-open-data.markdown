@@ -5,7 +5,7 @@ permalink: /news/open-data/
 date:   2018-02-27 16:35:00 +0100
 author_profile: false
 ---
-Briefly described, open data is ... 
+Briefly described, open data is data that is freely available without restrictions ... 
 
 See other sources that define what open data is:
 - [Open Data Handbook, Open Knowledge International](http://opendatahandbook.org/guide/en/what-is-open-data/)

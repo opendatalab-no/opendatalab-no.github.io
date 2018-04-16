@@ -13,6 +13,8 @@ These pages provides information about various aspects of using open data.
 The pages are currently based on an initial analysis of tasks involved in publishing and using of open data, and will continiously be enhanced as more feedback and experiences is collected.
 
 
+## Legg til noe om barriers to overcome
+
 ## Veileder
 
 [Difi's veileder](https://data.norge.no/document/del-og-skap-verdier-veileder-i-tilgjengeliggjøring-av-offentlige-data)

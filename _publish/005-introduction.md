@@ -10,8 +10,9 @@ toc: true
 
 These pages provides information about publishing of open data. The pages are mainly organized around tasks that are usually part of the process of publishing open data. 
 
-The pages are currently based on an initial analysis of tasks involved in publishing and using of open data, and will continiously be enhanced as more feedback and experiences is collected.
+The pages are estabilished by SINTEF, and focus on topics adressed by research projects. The content will therefore emerge over time as new knowledge is established. The current pages are based on an initial analysis of tasks involved in publishing and using of open data.
 
+Where suggestions and solutions are provided by other sources, we refer to these and sometimes give a brief summary.
 
 ## Veileder
 

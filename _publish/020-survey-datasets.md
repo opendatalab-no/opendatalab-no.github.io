@@ -11,13 +11,32 @@ toc: true
 An initial activity in the process of publishing open data is to get an overview of the data sets available in your organisation, and classify these datasets with respect to how 
 
 
-## Survey
 
-More description
+## Challenges
 
-## Classify surveyed data sets
+### Find the datasets in your organisation
+
+### Classify surveyed data sets
 
 Further description...
+
+
+
+### Research questions
+
+
+
+
+## Suggestions
+
+
+Include justification for suggestion when possible
+
+### Tools
+
+
+## Further reading and references
+
 
 ---
 

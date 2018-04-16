@@ -38,13 +38,15 @@ main:
 
 # documentation links
 publish:
-  - title: Getting Started
+  - title: Publsih Data - Getting Started
     children:
       - title: "Introduction"
         url: /publish/intro/
+      - title: "Barriers to overcome"
+        url: /publish/barriers/ 
       - title: "Survey datasets"
         url: /publish/survey/
-  - title: Planning for innovation
+  - title: Facilitating innovation
     children:
       - title: "Selecting datasets to publish"
         url: /publish/select/
@@ -75,7 +77,7 @@ publish:
 
 # documentation links
 use:
-  - title: Getting Started
+  - title: Using Data - Getting Started
     children:
       - title: "Introduction"
         url: /use/intro/
