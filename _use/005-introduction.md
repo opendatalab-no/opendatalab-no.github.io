@@ -13,7 +13,22 @@ These pages provides information about various aspects of using open data.
 The pages are currently based on an initial analysis of tasks involved in publishing and using of open data, and will continiously be enhanced as more feedback and experiences is collected.
 
 
-## Legg til noe om barriers to overcome
+## Barriers to overcome
+
+Research has surveyed barriers regarding the use of open data. The main barriers are:
+
+- The availability of relevant and good quality data varies, is too low or is not reliable. Commercial businesses cannot base their business on such data.
+
+- Meta data and data documentation is missing, incomplete or of low quality.
+
+- The data formats and data structures used are proprietary and incompatible with each other and cause conversion difficulties that are a barrier as users could not acquire the required software. In many cases it is also a challenge to understand the data content.
+
+- Data is prepared for manual access via the web (e.g. pdf documents or web-pages) and cannot be accessed by software.
+
+- The variety of licenses is a challenge. There is a risk for an incomplete openness of data if the commercial use of the data is limited by the licenses. The combination of data with different licenses leads to complex situations, regarding rights and licenses over datasets.
+
+In general there is little knowledge on how to cope with the barriers listed above. The OpenDataLab aims to address this lack of knowledge.
+
 
 ## Veileder
 
