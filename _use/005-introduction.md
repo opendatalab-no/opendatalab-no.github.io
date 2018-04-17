@@ -15,7 +15,7 @@ The pages are currently based on an initial analysis of tasks involved in publis
 
 ## Barriers to overcome
 
-Research has surveyed barriers regarding the use of open data. The main barriers are:
+Research has surveyed barriers regarding the use of open data. The main barriers are [^1]:
 
 - The availability of relevant and good quality data varies, is too low and is not reliable. Commercial businesses cannot base their business on such data.
 
@@ -38,3 +38,11 @@ In general there is little knowledge on how to cope with the barriers listed abo
 ## Guidelines
 
 [Difi's guidelines](https://data.norge.no/retningslinjer-ved-tilgjengeliggjøring-av-offentlige-data)
+
+[^1]: 
+
+Janssen, Marijn, Yannis Charalabidis, and Anneke Zuiderwijk. "Benefits, adoption barriers and myths of open data and open government." Information systems management 29.4 (2012): 258-268.
+Martin, Sébastien, et al. "Open data: Barriers, risks and opportunities." Proceedings of the 13th European Conference on eGovernment: ECEG. 2013.
+
+
+
