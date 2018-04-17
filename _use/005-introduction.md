@@ -17,9 +17,9 @@ The pages are currently based on an initial analysis of tasks involved in publis
 
 Research has surveyed barriers regarding the use of open data. The main barriers are:
 
-- The availability of relevant and good quality data varies, is too low or is not reliable. Commercial businesses cannot base their business on such data.
+- The availability of relevant and good quality data varies, is too low and is not reliable. Commercial businesses cannot base their business on such data.
 
-- Meta data and data documentation is missing, incomplete or of low quality.
+- Meta data and data documentation is missing, incomplete and of low quality.
 
 - The data formats and data structures used are proprietary and incompatible with each other and cause conversion difficulties that are a barrier as users could not acquire the required software. In many cases it is also a challenge to understand the data content.
 
