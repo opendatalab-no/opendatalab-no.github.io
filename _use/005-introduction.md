@@ -44,5 +44,7 @@ In general there is little knowledge on how to cope with the barriers listed abo
 
 Martin, Sébastien, et al. "Open data: Barriers, risks and opportunities." Proceedings of the 13th European Conference on eGovernment: ECEG. 2013.
 
+Martin, Chris. "Barriers to the Open Government Data Agenda: Taking a Multi‐Level Perspective." Policy & Internet 6.3 (2014): 217-240.
 
+Toots, Maarja, et al. "Open data as enabler of public service co-creation: exploring the drivers and barriers." E-Democracy and Open Government (CeDEM), 2017 Conference for. IEEE, 2017.
 
