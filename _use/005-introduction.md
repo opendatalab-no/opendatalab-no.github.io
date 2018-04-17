@@ -15,7 +15,7 @@ The pages are currently based on an initial analysis of tasks involved in publis
 
 ## Barriers to overcome
 
-Research has surveyed barriers regarding the use of open data. The main barriers are [^1]:
+Research has surveyed barriers regarding the use of open data. The main barriers are: [^1]
 
 - The availability of relevant and good quality data varies, is too low and is not reliable. Commercial businesses cannot base their business on such data.
 
