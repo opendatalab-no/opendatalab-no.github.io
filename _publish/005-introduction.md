@@ -16,7 +16,7 @@ Where suggestions and solutions are provided by other sources, we refer to these
 
 ## Barriers to overcome
 
-Research has surveyed barriers regarding the opening of data. The main barriers are:
+Research has surveyed barriers regarding the opening of data. The main barriers are: [^1]
 
 - Public data owners lack awareness and knowledge about the benefits of open data, such as increased service quality, increased transparency and trust by citizens, active citizenship through a higher participation in political and public debates, and actual cost savings through the generation of economic activities and better services.
 
@@ -34,3 +34,16 @@ Research has surveyed barriers regarding the opening of data. The main barriers 
 ## Guidelines
 
 [Difi's guidelines](https://data.norge.no/retningslinjer-ved-tilgjengeliggjøring-av-offentlige-data)
+
+## References:
+[^1]: Janssen, Marijn, Yannis Charalabidis, and Anneke Zuiderwijk. "Benefits, adoption barriers and myths of open data and open government." Information systems management 29.4 (2012): 258-268.
+
+Martin, Sébastien, et al. "Open data: Barriers, risks and opportunities." Proceedings of the 13th European Conference on eGovernment: ECEG. 2013.
+
+Conradie, Peter, and Sunil Choenni. "On the barriers for local government releasing open data." Government Information Quarterly 31 (2014): S10-S17.
+
+Martin,Chris. "Barriers to the Open Government Data Agenda: Taking a Multi‐Level Perspective." Policy & Internet 6.3 (2014): 217-240.
+
+Toots, Maarja, et al. "Open data as enabler of public service co-creation: exploring the drivers and barriers." E-Democracy and Open Government (CeDEM), 2017 Conference for. IEEE, 2017.
+
+
