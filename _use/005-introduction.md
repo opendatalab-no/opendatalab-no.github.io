@@ -39,8 +39,8 @@ In general there is little knowledge on how to cope with the barriers listed abo
 
 [Difi's guidelines](https://data.norge.no/retningslinjer-ved-tilgjengeliggjøring-av-offentlige-data)
 
-[^1]: 
-Janssen, Marijn, Yannis Charalabidis, and Anneke Zuiderwijk. "Benefits, adoption barriers and myths of open data and open government." Information systems management 29.4 (2012): 258-268.
+[^1]: Janssen, Marijn, Yannis Charalabidis, and Anneke Zuiderwijk. "Benefits, adoption barriers and myths of open data and open government." Information systems management 29.4 (2012): 258-268.
+
 Martin, Sébastien, et al. "Open data: Barriers, risks and opportunities." Proceedings of the 13th European Conference on eGovernment: ECEG. 2013.
 
 
