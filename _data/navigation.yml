@@ -69,7 +69,7 @@ publish:
       - title: "Register datasets"
         url: /publish/todo/
       - title: "Define metadata"
-        url: /publish/todo/
+        url: /publish/metadata/
       - title: "Create awareness"
         url: /publish/todo/
       - title: "Dialog and feedback"
