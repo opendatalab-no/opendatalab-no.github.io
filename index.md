@@ -3,11 +3,11 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/header-image1.png
+  overlay_image: /assets/images/header.svg
   caption:
 excerpt: 'A site for publishers and users of open data'
 intro: 
-  - excerpt: 'This lab is hosted by SINTEF. The purpose is to experiment with support and tools for overcomming barriers to publication and use of open data. We would like to test the lab in collaboration with hackatons and other initiatives for use of (open) data.'
+  - excerpt: "This lab is hosted by [SINTEF](http://www.sintef.no).<br/>The purpose of the lab is to experiment with support and tools for overcomming barriers to publication and use of open data. We would like to test the lab in collaboration with hackatons and other initiatives for use of (open) data."
 feature_row:
   - image_path: /assets/images/what-is-open-data.png
     alt: "what is open data"
@@ -16,14 +16,14 @@ feature_row:
     url: "/news/open-data/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
-  - image_path: /assets/images/publish-data.png
+  - image_path: /assets/images/publish-icons.svg
     alt: "publishing"
     title: "Publishing open data"
     excerpt: "Information and tools for owners and providers of open data."
     url: "/publish/intro/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
-  - image_path: /assets/images/use-data.png
+  - image_path: /assets/images/use-icons.svg
     alt: "using"
     title: "Using open data!"
     excerpt: "Information and tools for innovators and developers using open data."
