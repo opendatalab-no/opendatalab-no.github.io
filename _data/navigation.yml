@@ -68,8 +68,8 @@ publish:
     children:
       - title: "<i>Register datasets</i>"
         url: /publish/todo/
-      - title: "<i>Define metadata</i>"
-        url: /publish/todo/
+      - title: "Define metadata"
+        url: /publish/metadata/
       - title: "<i>Create awareness</i>"
         url: /publish/todo/
       - title: "<i>Dialog and feedback</i>"
