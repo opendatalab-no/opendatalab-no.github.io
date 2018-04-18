@@ -42,8 +42,6 @@ publish:
     children:
       - title: "Introduction"
         url: /publish/intro/
-      - title: "Barriers to overcome"
-        url: /publish/barriers/ 
       - title: "Survey datasets"
         url: /publish/survey/
   - title: Facilitating innovation
