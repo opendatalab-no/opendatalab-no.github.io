@@ -42,6 +42,8 @@ publish:
     children:
       - title: "Introduction"
         url: /publish/intro/
+      - title: "Barriers to overcome"
+        url: /publish/barriers/
       - title: "Survey datasets"
         url: /publish/survey/
   - title: Facilitating innovation
@@ -79,12 +81,12 @@ use:
     children:
       - title: "Introduction"
         url: /use/intro/
-      - title: "<i>Finding datasets</i>"
-        url: /use/todo/
+      - title: "Barriers to overcome"
+        url: /use/barriers/
   - title: Selecting datasets to use
     children:
-      - title: "<i>Finding datasets</i>"
-        url: /use/todo/
+      - title: "Finding datasets"
+        url: /use/find-datasets/
       - title: "<i>Documentation and examples</i>"
         url: /use/todo/
       - title: "<i>Exploring related data</i>"
