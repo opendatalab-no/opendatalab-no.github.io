@@ -44,16 +44,14 @@ publish:
         url: /publish/intro/
       - title: "Barriers to overcome"
         url: /publish/barriers/
-      - title: "Survey datasets"
-        url: /publish/survey/
   - title: Facilitating innovation
     children:
       - title: "Selecting datasets to publish"
         url: /publish/select/
       - title: "Selecting license"
         url: /publish/license/
-      - title: "<i>One city is not a market</i>"
-        url: /publish/todo/
+      - title: "One city is not a market"
+        url: /publish/one-city/
   - title: Preparing data and APIs
     children:
       - title: "<i>Prepare data</i>"
