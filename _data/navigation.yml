@@ -60,8 +60,8 @@ publish:
         url: /publish/todo/
       - title: "<i>Standardisation</i>"
         url: /publish/todo/
-      - title: "<i>Documenting data and APIs</i>"
-        url: /publish/todo/          
+      - title: "Documenting data and APIs"
+        url: /publish/document/          
   - title: Publishing
     children:
       - title: "<i>Register datasets</i>"

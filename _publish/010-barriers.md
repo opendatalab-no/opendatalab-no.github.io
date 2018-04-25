@@ -2,7 +2,7 @@
 title: "Barriers to publishing of open data"
 permalink: /publish/barriers/
 excerpt: "Barriers to publishing of open data"
-last_modified_at: 2018-03-15T14:00:00 +01:00
+last_modified_at: 2018-04-18T16:00:00 +01:00
 redirect_from:
   - /theme-setup/
 toc: true
