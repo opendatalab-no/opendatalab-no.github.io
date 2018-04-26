@@ -1,5 +1,5 @@
 ---
-title: "Selecting licence for publishing"
+title: "Selecting licence and terms for publishing"
 permalink: /publish/licence/
 excerpt: "How to select data sets for publishing"
 last_modified_at: 2018-04-24T14:00:00 +01:00
