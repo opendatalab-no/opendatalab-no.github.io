@@ -12,7 +12,7 @@ The licence selected for publishing data is important both for the owner and the
 
 When selecting a licence, keep in mind what the users might want to use the data for. While you may want to protect yourself from misuse, it is also important that the licence is open enough to encourage and support innovations built on the data. 
 
-One of the challenges for innovators is that open data is available under many different licence. From their view, it situation would be simplified if use of licences could be more standardised. Also for the publisher, use of the same licences simplify the data management. 
+One of the challenges for innovators is that open data is available under many different licence. From their view, the situation would be simplified if use of licences could be more standardised. Also for the publisher, use of the same licences for all datasets simplify the data management. 
 
 In Norway, the the Norwegian licence for Open Government Data is recommended for open public data:
 - [NLOD in English](https://data.norge.no/nlod/en)
