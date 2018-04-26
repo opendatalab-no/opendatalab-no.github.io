@@ -14,7 +14,7 @@ Open data are available from different kinds of sources, including goverment age
 
 ## Where to start looking
 
-A good starting point to locate datasets are in open data catalogues and portals. 
+A good starting point to locate datasets is in open data catalogues and portals. 
 
 In Norway, the following catalogues and portals are good soures:
 - [Norways official catalog for open data from public sector](https://data.norge.no/)
@@ -23,7 +23,7 @@ In Norway, the following catalogues and portals are good soures:
 - [Urbalurba's portal for Norwegian smart city data](http://www.urbalurba.no)
 - [Stavanger municipality open data portal](https://open.stavanger.kommune.no)
 
-As datasets can be registered in more than one catalogue, there is substatial overlap in the cataloges mentioned above. 
+As datasets can be registered in more than one catalogue, and the catalogues also harvest data from each other. Thus, there is substatial overlap in the cataloges mentioned above. 
 
 International sources:
 - [European Data Portal](https://www.europeandataportal.eu)
