@@ -9,4 +9,6 @@ toc: true
 ---
 
 We plan to add a page on the topic you selected at a later point.
-
+- Data privacy techniques
+- Good examples
+- Overview of relevant tools
