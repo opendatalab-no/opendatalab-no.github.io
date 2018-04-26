@@ -44,34 +44,36 @@ publish:
         url: /publish/intro/
       - title: "Barriers to overcome"
         url: /publish/barriers/
+      - title: "Barriers for users of your data"
+        url: /publish/barriers-users/
   - title: Facilitating innovation
     children:
       - title: "Selecting datasets to publish"
         url: /publish/select/
-      - title: "Selecting license"
-        url: /publish/license/
+      - title: "Selecting licence"
+        url: /publish/licence/
       - title: "One city is not a market"
         url: /publish/one-city/
   - title: Preparing data and APIs
     children:
-      - title: "<i>Prepare data</i>"
-        url: /publish/todo/
-      - title: "<i>Develop APIs</i>"
-        url: /publish/todo/
-      - title: "<i>Standardisation</i>"
-        url: /publish/todo/
+#      - title: "<i>Prepare data</i>"
+#        url: /publish/todo/
+#      - title: "<i>Develop APIs</i>"
+#        url: /publish/todo/
+#      - title: "<i>Standardisation</i>"
+#        url: /publish/todo/
       - title: "Documenting data and APIs"
         url: /publish/document/          
   - title: Publishing
     children:
-      - title: "<i>Register datasets</i>"
-        url: /publish/todo/
+#      - title: "<i>Register datasets</i>"
+#        url: /publish/todo/
       - title: "Define metadata"
         url: /publish/metadata/
-      - title: "<i>Create awareness</i>"
-        url: /publish/todo/
-      - title: "<i>Dialog and feedback</i>"
-        url: /publish/todo/
+#      - title: "<i>Create awareness</i>"
+#        url: /publish/todo/
+#      - title: "<i>Dialog and feedback</i>"
+#        url: /publish/todo/
 
 # documentation links
 use:
@@ -79,42 +81,42 @@ use:
     children:
       - title: "Introduction"
         url: /use/intro/
-      - title: "Barriers to overcome"
-        url: /use/barriers/
   - title: Selecting datasets to use
     children:
       - title: "Finding datasets"
         url: /use/find-datasets/
-      - title: "<i>Documentation and examples</i>"
-        url: /use/todo/
-      - title: "<i>Exploring related data</i>"
-        url: /use/todo/
-      - title: "<i>APIs and data formats</i>"
-        url: /use/todo/
-      - title: "<i>Terms of use</i>"
-        url: /use/todo/
-      - title: "<i>Data coverage and quality</i>"
-        url: /use/todo/
+#      - title: "<i>Documentation and examples</i>"
+#        url: /use/todo/
+#      - title: "<i>Exploring related data</i>"
+#        url: /use/todo/
+#      - title: "<i>APIs and data formats</i>"
+#        url: /use/todo/
+#      - title: "<i>Terms of use</i>"
+#        url: /use/todo/
+#      - title: "<i>Data coverage and quality</i>"
+#        url: /use/todo/
   - title: Developing services with open data
     children:
-      - title: "<i>Define service concepts</i>"
-        url: /use/todo/
-      - title: "<i>Prepare data</i>"
-        url: /use/todo/
-      - title: "<i>Transform, filter, aggregate</i>"
-        url: /use/todo/
-      - title: "<i>Connect data</i>"
-        url: /use/todo/
-      - title: "<i>Define data workflow</i>"
-        url: /use/todo/
-      - title: "<i>Visualize data</i>"
-        url: /use/todo/
-      - title: "<i>Use API</i>"
-        url: /use/todo/
-      - title: "<i>Publish servie</i>"
-        url: /use/todo/
-  - title: Community
-    children:
-      - title: "<i>Provide feedback on open data</i>"
-        url: /use/todo/
+      - title: "Prototyping and experimenting"
+        url: /use/prototype/
+#      - title: "<i>Define service concepts</i>"
+#        url: /use/todo/
+#      - title: "<i>Prepare data</i>"
+#        url: /use/todo/
+#      - title: "<i>Transform, filter, aggregate</i>"
+#        url: /use/todo/
+#      - title: "<i>Connect data</i>"
+#        url: /use/todo/
+#      - title: "<i>Define data workflow</i>"
+#        url: /use/todo/
+#      - title: "<i>Visualize data</i>"
+#        url: /use/todo/
+#      - title: "<i>Use API</i>"
+#        url: /use/todo/
+#      - title: "<i>Publish servie</i>"
+#       url: /use/todo/
+#  - title: Community
+#    children:
+#      - title: "<i>Provide feedback on open data</i>"
+#        url: /use/todo/
 

@@ -18,18 +18,18 @@ feature_row:
     btn_label: "Learn More"
   - image_path: /assets/images/use-icons.svg
     alt: "using"
-    title: "Using open data!"
+    title: "Using open data"
     excerpt: "Information and tools for innovators and developers using open data."
     url: "/use/intro/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
   - image_path: /assets/images/Survey_Icon.png
     alt: "survey"
-    title: "Tell us about your experience!"
-    excerpt: "Help us learn more about what makes open data easy or difficult to use."
+    title: "Research on open data"
+    excerpt: "Help us learn more about what makes open data easy or difficult to use, and learn more about our reseach."
     url: "/news/survey/"
     btn_class: "btn--primary"
-    btn_label: "Learn More"
+    btn_label: "More info and provide input"
 
 news: 
   - excerpt: 'Recent posts:'

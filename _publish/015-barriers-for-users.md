@@ -1,6 +1,6 @@
 ---
-title: "Barriers to use of open data"
-permalink: /use/barriers/
+title: "Barriers for users of your open data"
+permalink: /publish/barriers-users/
 excerpt: "Barriers to use of open data"
 last_modified_at: 2018-03-16T10:00:00 +01:00
 redirect_from:
@@ -8,7 +8,10 @@ redirect_from:
 toc: true
 ---
 
-Research has surveyed barriers regarding the use of open data. The main barriers are: [^1] [^2] [^3] [^4]
+Research has surveyed barriers regarding the use of open data. It is important that you as a publisher is aware of these barriers, and take actions to mitigate them.
+
+
+The main barriers are: [^1] [^2] [^3] [^4]
 
 - The availability of relevant and good quality data varies, is too low and is not reliable. Commercial businesses cannot base their business on such data.
 
@@ -22,17 +25,7 @@ Research has surveyed barriers regarding the use of open data. The main barriers
 
 In general there is little knowledge on how to cope with the barriers listed above. The OpenDataLab aims to address this lack of knowledge.
 
-
-## Veileder
-
-[Difi's veileder](https://data.norge.no/document/del-og-skap-verdier-veileder-i-tilgjengeliggjøring-av-offentlige-data)
-
-
-## Guidelines
-
-[Difi's guidelines](https://data.norge.no/retningslinjer-ved-tilgjengeliggjøring-av-offentlige-data)
-
-## References
+## References and further reading
 [^1]: Janssen, Marijn, Yannis Charalabidis, and Anneke Zuiderwijk. "Benefits, adoption barriers and myths of open data and open government." Information systems management 29.4 (2012): 258-268.
 
 [^2]: Martin, Sébastien, et al. "Open data: Barriers, risks and opportunities." Proceedings of the 13th European Conference on eGovernment: ECEG. 2013.

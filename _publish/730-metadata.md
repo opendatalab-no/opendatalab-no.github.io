@@ -31,10 +31,13 @@ Preliminary results from experiments have indicated that semantic search based o
 ## Suggestions
 
 
-
+**Use DCAT**
+**DCAT-AP-NO**
 
 ### Tools
 To be included.
+
+**CKAN plugin for DCAT**
 
 ## Further reading and references
 

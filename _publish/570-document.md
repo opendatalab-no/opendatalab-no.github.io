@@ -35,6 +35,8 @@ OpenAPI descriptions can be created either by writing  by either writing
 
 At [swagger.io](https://swagger.io) you will find links to both open source and commercial tools for documenting with OpenAPI and for using OpenAPI descriptions as part of your development projects.
 
+**OpenAPI plugin for CKAN**
+
 ## References and further reading 
 
 [^1]: The OpenAPI specification. [https://github.com/OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification).
