@@ -9,4 +9,6 @@ toc: true
 ---
 
 We plan to add a page on the topic you selected at a later point.
-
+- Provide feedback on data
+- Visualise data
+- Overview of relevant tools
