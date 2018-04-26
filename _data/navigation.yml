@@ -50,7 +50,7 @@ publish:
     children:
       - title: "Selecting datasets to publish"
         url: /publish/select/
-      - title: "Selecting licence"
+      - title: "Selecting licence and terms"
         url: /publish/licence/
       - title: "One city is not a market"
         url: /publish/one-city/
