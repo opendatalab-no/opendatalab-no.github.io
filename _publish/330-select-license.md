@@ -8,6 +8,10 @@ redirect_from:
 toc: true
 ---
 
+Both the licences and the terms of use must be decided when data is published.
+
+## Licences
+
 The licence selected for publishing data is important both for the owner and the user of the data, as it determines what the users are allowed to do with the data.
 
 When selecting a licence, keep in mind what the users might want to use the data for. While you may want to protect yourself from misuse, it is also important that the licence is open enough to encourage and support innovations built on the data. 
