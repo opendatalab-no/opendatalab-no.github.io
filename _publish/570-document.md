@@ -10,6 +10,8 @@ toc: true
 
 The documentation provided with open data and APIs is important both to developers that try to understand how to use your data, and to innovators who take the decision on whether your data can be used at all.
 
+Good documentation of data is also important for internal use of data within your own organisation.
+
 
 ## Challenges
 
@@ -21,6 +23,9 @@ Both for innovators and developers, it is important to quickly be able to determ
 - Provide a brief overview that explains what the data is and is not.
 - Help innovators and developers to quickly determine whether your data is useable for them, so keep an intoductory part short and to the point.
 - Remember that your reader may not be an expert in the domain of the data, so include enough context to make it understandable.
+- Provide examples showing data content and data structures
+- Provide examples showing how the APIs work
+- Support testing of APIs
 
 ### OpenAPI
 
@@ -29,7 +34,7 @@ As described at, the specification *"defines a standard, programming language-ag
 
 
 OpenAPI descriptions can be created either by writing  by either writing 
-
+**???**
 
 ### Tools
 
