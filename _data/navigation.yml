@@ -26,6 +26,8 @@ main:
     url: /publish/intro/
   - title: "Use"
     url: /use/intro/
+  - title: "Research"
+    url: /research/intro/
   - title: "News"
     url: /year-archive/
   - title: "About"
@@ -120,3 +122,12 @@ use:
 #      - title: "<i>Provide feedback on open data</i>"
 #        url: /use/todo/
 
+research:
+  - title: Research on Open Data
+    children:
+      - title: "Introduction"
+        url: /research/intro/
+  - title: Search and metainfo
+    children:
+      - title: "Metadata for search"
+        url: /research/metadata/

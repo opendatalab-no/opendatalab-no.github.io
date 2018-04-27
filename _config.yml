@@ -191,7 +191,7 @@ collections:
   use:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  research:
     output: true
     permalink: /:collection/:path/
 
@@ -240,14 +240,18 @@ defaults:
       comments: false
       sidebar:
         nav: "use"
-  # _portfolio
+  # _publish
   - scope:
       path: ""
-      type: portfolio
+      type: research
     values:
       layout: single
+      read_time: false
       author_profile: false
-      share: true
+      share: false
+      comments: false
+      sidebar:
+        nav: "research"
 
 
 # Sass/SCSS

@@ -26,8 +26,8 @@ feature_row:
   - image_path: /assets/images/Survey_Icon.png
     alt: "survey"
     title: "Research on open data"
-    excerpt: "Help us learn more about what makes open data easy or difficult to use, and learn more about our reseach."
-    url: "/news/survey/"
+    excerpt: "[Help us learn more](/news/survey) about what makes open data easy or difficult to use, and learn more about our reseach."
+    url: "/research/intro/"
     btn_class: "btn--primary"
     btn_label: "More info and provide input"
 
