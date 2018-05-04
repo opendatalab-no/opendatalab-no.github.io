@@ -23,8 +23,8 @@ In Norway, the the Norwegian licence for Open Government Data is recommended for
 - [NLOD in Norwegian](https://data.norge.no/nlod/no)
 
 Other commonly used licences include:
-- **Creative commons**
-- **Open Government Licence (OGL)**
+- [**Creative commons**](https://creativecommons.org/licenses/)
+- [**Open Government Licence (OGL)**](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
 - ...
 
 ## Other terms of use
