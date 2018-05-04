@@ -1,20 +1,15 @@
 ---
-title: "Define metadata"
-permalink: /research/metadata/
-excerpt: "How to describe publised datasets"
-last_modified_at: 2018-04-17T14:00:00 +01:00
+title: "Ontology-based semantic search"
+permalink: /research/semanticsearch/
+excerpt: "Discover relevant datasets with ontology based semantic search"
+last_modified_at: 2018-05-04T14:00:00 +01:00
 redirect_from:
   - /theme-setup/
 toc: true
 ---
 
-Published open data is described using a set of metadata, i.e., data that provide information about the datasets. Examples of metadata include short description in natural language, keywords/themes, data quality, data freshness (how often data is updated), data source (who published data), data format and other characteristics of the dataset.  
 
-
-
-## Challenges 
-
-### Find the relevant datasets
+## Challenges for finding the relevant datasets
 More and more public data become available through various channels, e.g., open data portal and other websites. However, there is a lack of overview of available open data. Often the published data descriptions are unprecise or incomplete and it is time-consuming to browse over a large number of datasets with unprecise or incomplete descriptions to identify relevant datasets. On the other hand, data portals or websites normally provide only keyword-based search. It is often difficult to know what to search, e.g., which keyword shall be used in order to find the relevant datasets that user needs. 
 
 
@@ -31,13 +26,11 @@ Preliminary results from experiments have indicated that semantic search based o
 ## Suggestions
 
 
-**Use DCAT**
-**DCAT-AP-NO**
 
 ### Tools
 To be included.
 
-**CKAN plugin for DCAT**
+
 
 ## Further reading and references
 
