@@ -1,8 +1,8 @@
 ---
-title: "Introduction to use of data"
+title: "Introduction to Use of Open Data"
 permalink: /use/intro/
 excerpt: "Introduction to use of open data"
-last_modified_at: 2018-05-07T12:00:00 +01:00
+last_modified_at: 2018-05-07T14:00:00 +01:00
 redirect_from:
   - /theme-setup/
 toc: true
