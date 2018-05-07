@@ -1,8 +1,8 @@
 ---
-title: "Barriers to publishing of open data"
+title: "Barriers to Publishing Open Data"
 permalink: /publish/barriers/
-excerpt: "Barriers to publishing of open data"
-last_modified_at: 2018-04-18T16:00:00 +01:00
+excerpt: "Barriers to publishing open data"
+last_modified_at: 2018-05-07T12:00:00 +01:00
 redirect_from:
   - /theme-setup/
 toc: true
@@ -16,7 +16,7 @@ Research has surveyed barriers regarding the opening of data. The main barriers 
 
 - The management of heterogeneous conditions of reuse of data is very challenging, and legal issues such as privacy is also a concern. Data is not published if the implications on privacy is unclear.
 
-- Data owners have responsibility concerns and tend to have risk adverse cultures. They are concerned about what the use of the data may lead to, and thus they think that access to data should be restricted. Data owners also fear that the opening of data will increase the demand for better data quality, more stability in data availability, more user-friendly user interfaces, etc.
+- Data owners have responsibility concerns and tend to have risk-averse cultures. They are concerned about what the use of the data may lead to, and thus they think that access to data should be restricted. Data owners also fear that the opening of data will increase the demand for better data quality, more stability in data availability, more user-friendly user interfaces, etc.
 
 ## References and further reading
 

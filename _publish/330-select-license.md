@@ -1,8 +1,8 @@
 ---
-title: "Selecting licence and terms for publishing"
+title: "Selecting Licence and Terms for Publishing"
 permalink: /publish/licence/
-excerpt: "How to select data sets for publishing"
-last_modified_at: 2018-04-24T14:00:00 +01:00
+excerpt: "Selecting Licence and Terms for Publishing"
+last_modified_at: 2018-05-07T12:00:00 +01:00
 redirect_from:
   - /theme-setup/
 toc: true
@@ -18,14 +18,13 @@ When selecting a licence, keep in mind what the users might want to use the data
 
 One of the challenges for innovators is that open data is available under many different licence. From their view, the situation would be simplified if use of licences could be more standardised. Also for the publisher, use of the same licences for all datasets simplify the data management. 
 
-In Norway, the the Norwegian licence for Open Government Data is recommended for open public data:
+In Norway, the Norwegian licence for Open Government Data is recommended for open public data:
 - [NLOD in English](https://data.norge.no/nlod/en)
 - [NLOD in Norwegian](https://data.norge.no/nlod/no)
 
 Other commonly used licences include:
-- [**Creative commons**](https://creativecommons.org/licenses/)
-- [**Open Government Licence (OGL)**](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
-- ...
+- [Creative commons](https://creativecommons.org/licenses/)
+- [Open Government Licence (OGL)](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
 
 ## Other terms of use
 

@@ -2,13 +2,13 @@
 title: "One City Is Not a Market"
 permalink: /publish/one-city/
 excerpt: "One city is not a market"
-last_modified_at: 2018-04-24T14:00:00 +01:00
+last_modified_at: 2018-05-07T13:00:00 +01:00
 redirect_from:
   - /theme-setup/
 toc: true
 ---
 
-For innovators that want to provide a sustainable service based on open data, one of the main callenges is whether the market is large enough compared to the effort of developing and providing the service.
+For innovators that want to provide a sustainable service based on open data, one of the main challenges is whether the market is large enough compared to the effort of developing and providing the service.
 
 In this context, a single city is often too small a market to make the service sustainable. 
 
@@ -21,7 +21,7 @@ In reality, there are several challenges for the innovator, including:
 - Differences in data structures and coverage of data
 - Licenses or other terms of use may be differ, causing both legal, practical, and technical problems
 - Different data formats may be used
-- API's for accessing the data may differ substatially
+- API's for accessing the data may differ substantially
 
 ## Suggestions
 

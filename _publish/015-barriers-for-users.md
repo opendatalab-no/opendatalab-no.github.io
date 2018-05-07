@@ -1,8 +1,8 @@
 ---
-title: "Barriers for users of your open data"
+title: "Barriers for Users of Your Open Data"
 permalink: /publish/barriers-users/
 excerpt: "Barriers to use of open data"
-last_modified_at: 2018-03-16T10:00:00 +01:00
+last_modified_at: 2018-05-07T12:00:00 +01:00
 redirect_from:
   - /theme-setup/
 toc: true

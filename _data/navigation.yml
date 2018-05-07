@@ -127,7 +127,9 @@ research:
     children:
       - title: "Introduction"
         url: /research/intro/
-  - title: Search and metainfo
+      - title: "Barriers"
+        url: /research/barriers
+  - title: Search and metadata
     children:
-      - title: "Metadata for search"
-        url: /research/metadata/
+      - title: "Ontology-based semantic search"
+        url: /research/semanticsearch/

@@ -2,7 +2,7 @@
 title: "Ontology-based semantic search"
 permalink: /research/semanticsearch/
 excerpt: "Discover relevant datasets with ontology based semantic search"
-last_modified_at: 2018-05-04T14:00:00 +01:00
+last_modified_at: 2018-05-07T11:00:00 +01:00
 redirect_from:
   - /theme-setup/
 toc: true
@@ -22,19 +22,3 @@ Ontology provides explicit formal specifications of the concepts and relations i
 The idea of ontology-based semantic search for open data can be described as follows. The published datasets are tagged with concepts from a well-defined ontology. Such tags can be defined using metadata. The semantic search is then based on the sematic similarity between the search terms and the concepts annotated for the datasets.
 Preliminary results from experiments have indicated that semantic search based on ontologies is a promising approach to increase search quality and efficiency.
 
-
-## Suggestions
-
-
-
-### Tools
-To be included.
-
-
-
-## Further reading and references
-
-
----
-
- 

@@ -1,8 +1,8 @@
 ---
-title: "Selecting data sets for publishing"
+title: "Selecting Data Sets for Publishing"
 permalink: /publish/select/
 excerpt: "How to select data sets for publishing"
-last_modified_at: 2018-04-24T14:00:00 +01:00
+last_modified_at: 2018-05-07T12:00:00 +01:00
 redirect_from:
   - /theme-setup/
 toc: true
