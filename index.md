@@ -20,7 +20,7 @@ feature_row:
     alt: "using"
     title: "Using open data"
     excerpt: "Information and tools for innovators and developers using open data."
-    url: "/use/intro/"
+    url: "/use/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
   - image_path: /assets/images/research-icons.png

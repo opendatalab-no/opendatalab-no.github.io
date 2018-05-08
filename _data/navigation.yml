@@ -25,11 +25,11 @@ main:
   - title: "Publish"
     url: /publish/intro/
   - title: "Use"
-    url: /use/intro/
+    url: /use/
   - title: "Research"
     url: /research/intro/
   - title: "News"
-    url: /year-archive/
+    url: /news/
   - title: "About"
     url: /about/
 #  - title: "Sample Collections"
@@ -82,7 +82,7 @@ use:
   - title: Using Data - Getting Started
     children:
       - title: "Introduction"
-        url: /use/intro/
+        url: /use/
   - title: Selecting datasets to use
     children:
       - title: "Finding datasets"

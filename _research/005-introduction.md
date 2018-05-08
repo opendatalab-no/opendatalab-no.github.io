@@ -1,5 +1,5 @@
 ---
-title: "Researh on Open Data"
+title: "Research on Open Data"
 permalink: /research/intro/
 excerpt: "Introduction to our research on open data"
 last_modified_at: 2018-05-07T11:00:00 +01:00
