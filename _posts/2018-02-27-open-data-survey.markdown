@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Spørreundersøkelse om åpne data - Survey on open data"
-permalink: /survey/
+permalink: /open-data-survey/
 date:   2018-02-27 16:35:00 +0100
 author_profile: false
 ---
