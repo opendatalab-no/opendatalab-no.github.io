@@ -31,12 +31,17 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "More info"
 
-news: 
-  - excerpt: 'Recent posts:'
 feature_row2:
+  - image_path: /assets/images/showcases-icon.png
+    alt: "Showcases"
+    title: "Showcases using open data"
+    excerpt: "Descriptions of cases using open data, including references to the data used and links open source repositories."
+    url: "/showcases/"
+    btn_class: "btn--primary"
+    btn_label: "Learn More"
   - image_path: /assets/images/node-red-icon.png
     alt: "prototyping"
-    title: "Using Node-Red for Open Data"
+    title: "Prototyping with open data"
     excerpt: "Node-red is a graphical tool for making prototypes. See how you can use the tool to connect to SBanken and more."
     url: "/news/using-nodered/"
     btn_class: "btn--primary"
@@ -54,7 +59,5 @@ feature_row2:
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
-
-{% include feature_row id="news" type="center" %}
 
 {% include feature_row id="feature_row2" %}
