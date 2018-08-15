@@ -6,6 +6,19 @@ last_modified_at: 2018-08-15T12:00:00 +01:00
 redirect_from:
   - /fiskinfo/
 toc: true
+gallery:
+  - url: /assets/images/fiskinfo-screen3.jpg
+    image_path: /assets/images/fiskinfo-screen3.jpg
+    alt: "Overview"
+    title: "Overview"
+  - url: /assets/images/fiskinfo-screen2.jpg
+    image_path: /assets/images/fiskinfo-screen2.jpg
+    alt: "Reporting of fishing equipment"
+    title: "Reporting of fishing equipment"
+  - url: /assets/images/fiskinfo-screen1.jpg
+    image_path: /assets/images/fiskinfo-screen1.jpg
+    alt: "Map showing current locations of fishing equipment in use"
+    title: "Map showing current locations of fishing equipment in use"
 ---
 
 ## About the case
@@ -14,6 +27,7 @@ FishInfo is a mobile app for registration and viewing of fishing equipment. The 
 
 The app uses resources from Barentswatch, which also hosts a web based variant of FiskInfo.
 
+{% include gallery %}
 
 ## Functionality
 
@@ -22,7 +36,7 @@ Fiskinfo includes:
 
 The screenshot shows the FishInfo app...  
 
-![Fiskinfo screenshot](/assets/images/fiskinfo-screen1.png)
+![Fiskinfo screenshot](/assets/images/fiskinfo-screen1.jpg)
 
 ## Open data source used
 
