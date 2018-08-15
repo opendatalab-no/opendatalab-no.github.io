@@ -194,6 +194,9 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
+  showcases:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -222,7 +225,7 @@ defaults:
       type: publish
     values:
       layout: single
-      read_time: false
+      read_time: true
       author_profile: false
       share: false
       comments: false
@@ -234,24 +237,36 @@ defaults:
       type: use
     values:
       layout: single
-      read_time: false
+      read_time: true
       author_profile: false
       share: false
       comments: false
       sidebar:
         nav: "use"
-  # _publish
+  # _research
   - scope:
       path: ""
       type: research
     values:
       layout: single
-      read_time: false
+      read_time: true
       author_profile: false
       share: false
       comments: false
       sidebar:
         nav: "research"
+  # _showcases
+  - scope:
+      path: ""
+      type: showcases
+    values:
+      layout: single
+      read_time: true
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "showcases"
 
 
 # Sass/SCSS
@@ -273,6 +288,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
+  - jekyll-redirect-from
   - jemoji
 
 # mimic GitHub Pages with --safe
@@ -281,6 +297,7 @@ whitelist:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
+  - jekyll-redirect-from
   - jemoji
 
 

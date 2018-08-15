@@ -28,6 +28,8 @@ main:
     url: /use/
   - title: "Research"
     url: /research/intro/
+  - title: "Showcases"
+    url: /showcases/
   - title: "News"
     url: /news/
   - title: "About"
@@ -133,3 +135,13 @@ research:
     children:
       - title: "Ontology-based semantic search"
         url: /research/semanticsearch/
+
+showcases:
+  - title: Showcases for Open Data
+    children:
+      - title: "Introduction"
+        url: /showcases/
+      - title: "Turplan"
+        url: /showcases/turplan/
+      - title: "FiskInfo"
+        url: /showcases/fiskinfo/
