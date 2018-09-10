@@ -2,7 +2,7 @@
 title: "Showcases using Open Data"
 permalink: /showcases/
 excerpt: "Showcases using Open Data"
-last_modified_at: 2018-09-10T12:50:00 +01:00
+last_modified_at: 2018-09-10T12:54:00 +01:00
 redirect_from:
   - /showcase/
   - /examples/
@@ -31,8 +31,9 @@ The cases we present here have been developed in the context of research project
 ## Other sources for showcases
 Showcases are presented at several open data portals. Some examles are:
 - <http://www.urbalurba.no/showcase>
-- <https://data.gov.ie/showcase>
 - <https://data.norge.no/app>
+- <https://www.kartverket.no/data/smartkart/>
+- <https://data.gov.ie/showcase>
 - <https://oppnadata.se/showcase>
 
 ## Ideas for other showcases?
