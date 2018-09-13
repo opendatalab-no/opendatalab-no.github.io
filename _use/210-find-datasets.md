@@ -2,7 +2,7 @@
 title: "Finding Datasets"
 permalink: /use/find-datasets/
 excerpt: "How to find datasetss"
-last_modified_at: 2018-09-13T13:30:00 +01:00
+last_modified_at: 2018-09-13T14:15:00 +01:00
 redirect_from:
   - /theme-setup/
 toc: true
@@ -104,5 +104,6 @@ International sources:
 - [INSPIRE Geoportal for European spatial data](http://inspire-geoportal.ec.europa.eu/discovery/)
 - [UK open government data](https://data.gov.uk)
 - [US open government data](https://www.data.gov)
+- [Google Dataset Search (Beta)](https://toolbox.google.com/datasetsearch)
 
-Unfortunately, the catalogues do not cover all available data. If you do not find a specific data set, it can still be worth to search for the data in other ways (e.g. through Google, or by visiting the web pages or contacting the organization you are looking for data from).
+Unfortunately, the catalogues do not cover all available data. If you do not find a specific data set, it can still be worth to search for the data in other ways (e.g. through regular Google searches, or by visiting the web pages or contacting the organization you are looking for data from).
