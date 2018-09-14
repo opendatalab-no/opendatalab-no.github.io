@@ -32,6 +32,13 @@ feature_row:
     btn_label: "More info"
 
 feature_row2:
+  - image_path: /assets/images/kommuner-uten-hav.svg
+    alt: "Data from Norwegian Municipalities"
+    title: "Data from Norwegian Municipalities"
+    excerpt: "Find out which open data sets are available from the ten municipalities in Norway with the highest population."
+    url: "/news/municipalities/"
+    btn_class: "btn--primary"
+    btn_label: "Learn More"
   - image_path: /assets/images/showcases-icon.png
     alt: "Showcases"
     title: "Showcases using open data"
@@ -41,16 +48,9 @@ feature_row2:
     btn_label: "Learn More"
   - image_path: /assets/images/node-red-icon.png
     alt: "prototyping"
-    title: "Prototyping with open data"
+    title: "Prototyping with open data using Node-red"
     excerpt: "Node-red is a graphical tool for making prototypes. See how you can use the tool to connect to SBanken and more."
     url: "/news/using-nodered/"
-    btn_class: "btn--primary"
-    btn_label: "Learn More"
-  - image_path: /assets/images/what-is-open-data.png
-    alt: "what is open data"
-    title: "What is open data?"
-    excerpt: "Get a quick introduction to what open data is."
-    url: "/news/open-data/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
     
