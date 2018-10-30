@@ -2,9 +2,9 @@
 title: "Finding Datasets"
 permalink: /use/find-datasets/
 excerpt: "How to find datasetss"
-last_modified_at: 2018-09-13T14:15:00 +01:00
+last_modified_at: 2018-10-30T15:45:00 +01:00
 redirect_from:
-  - /theme-setup/
+  - /find/
 toc: true
 ---
 
