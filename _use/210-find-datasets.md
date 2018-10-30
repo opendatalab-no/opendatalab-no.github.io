@@ -14,13 +14,17 @@ Open data are available from different kinds of sources, including government ag
 
 ## Where to start looking
 
-A good starting point to locate datasets is in open data catalogues and portals. 
+A good starting point to locate datasets is in open data catalogues and portals. Note that datasets can be registered in more than one catalogue, and the catalogues also harvest data from each other. Thus, there is substantial overlap in the catalogues mentioned above. 
+
+### Norwegain portals
 
 In Norway, the following catalogues and portals are good soures:
 - [Norway's official catalog for open data from public sector](https://data.norge.no/)
 - [National Data Dictionary - Felles datakatalog](https://fellesdatakatalog.brreg.no)
 - [Geonorge - national site for map data](https://www.geonorge.no/en/)
 - [Urbalurba's portal for Norwegian smart city data](http://www.urbalurba.no)  
+
+### Norwegian municipalities
 
 Open data from Norwegian municipalities can be found in various catalogues, such as portals provided by the municipalities themselves, the Geonorge portal and Felles datakatalog. The following table gives some examples from the ten largest municipalities in Norway.
 
@@ -97,13 +101,34 @@ Open data from Norwegian municipalities can be found in various catalogues, such
     </tr>
 </table>
 
-As datasets can be registered in more than one catalogue, and the catalogues also harvest data from each other. Thus, there is substantial overlap in the catalogues mentioned above. 
+### Norwegian goverment agencies, etc.
 
-International sources:
+Data from Norwegian government agencies:
+- [The Brønnøysunn Register Centre](https://www.brreg.no/products-and-services/open-data/)
+- [Directorate of Fisheries](https://www.fiskeridir.no/Statistikk/AApne-data/AApne-datasett)
+- [Norwegian Mapping Authority](https://kartverket.no/data/)
+- [Norwegian Meteorological Institute](https://www.met.no/frie-meteorologiske-data)
+- [Norwegian Labour and Welfare Service (Nav)](https://data.nav.no)
+- [Norwegian Geological Survey](http://www.ngu.no/emne/datasett-og-nedlasting)
+- [Norwegian Space Centre](https://www.satellittdata.no/)
+- [Norwegian Directorate for Cultural Heritage](https://www.riksantikvaren.no/Veiledning/Data-og-tjenester)
+- [Norwegian Public Roads Administration](https://www.vegvesen.no/data)
+- [Statistics Norway](https://www.ssb.no/statistikkbanken)
+
+Other sources:
+- [Entur: Travel information](https://www.entur.org/dev/)
+
+### International sources
+
 - [European Data Portal](https://www.europeandataportal.eu)
 - [INSPIRE Geoportal for European spatial data](http://inspire-geoportal.ec.europa.eu/discovery/)
 - [UK open government data](https://data.gov.uk)
 - [US open government data](https://www.data.gov)
-- [Google Dataset Search (Beta)](https://toolbox.google.com/datasetsearch)
 
-Unfortunately, the catalogues do not cover all available data. If you do not find a specific data set, it can still be worth to search for the data in other ways (e.g. through regular Google searches, or by visiting the web pages or contacting the organization you are looking for data from).
+
+## Finding data elsewhere
+Unfortunately, the catalogues do not cover all available data. If you do not find a specific data set, it can still be worth to search for the data in other ways, e.g by:
+- visiting the web pages and/or contacting the organization you are looking for data from
+- trying Google's beta-version of a service for finding datasets: [Google Dataset Search](https://toolbox.google.com/datasetsearch). In this you can find data from many catalogs, and through the data also discover catalogs in which they are registered.
+- trying regular Google searches
+
