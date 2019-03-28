@@ -19,5 +19,5 @@ Where suggestions and solutions are provided by other sources, we refer to these
 For Norwegian publishers of open data, a good starting point for learning more about publishing open date is the guidelines and tutorial provided by Difi (in Norwegian). 
 
 - [Difi's guidelines (retningslinjer)](https://data.norge.no/retningslinjer-ved-tilgjengeliggjøring-av-offentlige-data)
-- [Difi's tutorial (veileder)](https://data.norge.no/document/del-og-skap-verdier-veileder-i-tilgjengeliggjøring-av-offentlige-data)
+- [Difi's tutorial (veileder)](https://doc.difi.no/data/veileder-apne-data/)
 
