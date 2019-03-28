@@ -10,7 +10,7 @@ toc: true
 
 ## Survey your datasets
 
-An initial activity in the process of publishing open data is to get an overview of the data sets available in your organisation. The data sets can then be classified, e.g. using the [trafic light system suggested by Difi](https://data.norge.no/document/del-og-skap-verdier-veileder-i-tilgjengeliggjøring-av-offentlige-data/1-hva-er-åpne-data/14) with green meaning data that can be published, yellow meaning that it is uncertain whether the data can or should be opened, and red meaning that the data should not be published (e.g. due to security or privacy issues).
+An initial activity in the process of publishing open data is to get an overview of the data sets available in your organisation. The data sets can then be classified, e.g. using the [traffic light system suggested by Difi](https://doc.difi.no/data/veileder-apne-data/#_klassifisering_av_datasett_trafikklyssystemet) with green meaning data that can be published, yellow meaning that it is uncertain whether the data can or should be opened, and red meaning that the data should not be published (e.g. due to security or privacy issues).
 
 The overview itself (except the datasets marked as "red") can be published as open data, and can also be used to gather feedback on what datasets you should open first.
 
