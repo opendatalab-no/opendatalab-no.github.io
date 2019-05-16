@@ -55,7 +55,7 @@ Open data from Norwegian municipalities can be found in various catalogues, such
         <td>Trondheim</td>
         <td><a href="https://kartkatalog.geonorge.no/search?Facets%5B0%5D.name=organization&Facets%5B0%5D.value=Trondheim%20kommune">Map data</a></td>
         <td><a href="https://fellesdatakatalog.brreg.no/?orgPath=%2FKOMMUNE%2F942110464">Felles datakatalog</a></td>
-        <td><a href="https://open.stavanger.kommune.no/organization/trondheim-kommune">Other</a></td>
+        <td><a href="https://data.trondheim.kommune.no/">Own portal</a>, <a href="https://open.stavanger.kommune.no/organization/trondheim-kommune">Other</a></td>
     </tr>
     <tr>
         <td>Stavanger</td>
