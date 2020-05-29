@@ -14,5 +14,5 @@ ReiseNavet is an innovation project under the Transport 2025 programme of the Re
 Both projects will contribute to new knowledge on open data that will be used to further update OpenDataLab.
 
 More information about the projects can be found on the project sites:
-- (SamÅpne)[https://www.samåpne.no]
-- ReiseNavet[https://www.reisenavet.no]
+- [samåpne.no](https://samåpne.no)
+- [reisenavet.no](https://reisenavet.no)
