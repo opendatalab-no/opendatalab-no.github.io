@@ -43,7 +43,7 @@ Open data from Norwegian municipalities can be found in various catalogues, such
         <td>Oslo</td>
         <td><a href="https://kartkatalog.geonorge.no/search?Facets%5B0%5D.name=organization&Facets%5B0%5D.value=Oslo%20kommune">Map data</a></td>
         <td><a href="https://fellesdatakatalog.brreg.no/?orgPath=%2FKOMMUNE%2F958935420">Felles datakatalog</a></td>
-        <td></td>
+        <td><a href="https://developer.oslo.kommune.no/katalog/data">Own portal</a></td>
     </tr>
     <tr>
         <td>Bergen</td>
