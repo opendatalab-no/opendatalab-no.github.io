@@ -77,7 +77,7 @@ Open data from Norwegian municipalities can be found in various catalogues, such
     <tr>
         <td>Fredrikstad</td>
         <td><a href="https://kartkatalog.geonorge.no/search?Facets%5B0%5D.name=organization&Facets%5B0%5D.value=Fredrikstad%20kommune">Map data</a></td>
-        <td></td>
+        <td><a href="https://data.norge.no/datasets?orgPath=%2FKOMMUNE%2F940039541">Felles datakatalog</a></td>
         <td><a href="https://hub-frstadkomm.opendata.arcgis.com/">Smart Fredrikstad</a></td>
     </tr>
     <tr>
