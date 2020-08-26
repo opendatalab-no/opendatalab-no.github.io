@@ -41,25 +41,25 @@ Open data from Norwegian municipalities can be found in various catalogues, such
     <tr>
         <td>Oslo</td>
         <td><a href="https://kartkatalog.geonorge.no/search?Facets%5B0%5D.name=organization&Facets%5B0%5D.value=Oslo%20kommune">Map data</a></td>
-        <td><a href="https://data.norge.no/?orgPath=%2FKOMMUNE%2F958935420">Felles datakatalog</a></td>
+        <td><a href="https://data.norge.no/datasets?orgPath=%2FKOMMUNE%2F958935420">Felles datakatalog</a></td>
         <td><a href="https://developer.oslo.kommune.no/katalog/data">Own portal</a></td>
     </tr>
     <tr>
         <td>Bergen</td>
         <td><a href="https://kartkatalog.geonorge.no/search?Facets%5B0%5D.name=organization&Facets%5B0%5D.value=Bergen%20kommune">Map data</a></td>
-        <td><a href="https://data.norge.no/?orgPath=%2FKOMMUNE%2F964338531">Felles datakatalog</a></td>
+        <td><a href="https://data.norge.no/datasets?orgPath=%2FKOMMUNE%2F964338531">Felles datakatalog</a></td>
         <td></td>
     </tr>
     <tr>
         <td>Trondheim</td>
         <td><a href="https://kartkatalog.geonorge.no/search?Facets%5B0%5D.name=organization&Facets%5B0%5D.value=Trondheim%20kommune">Map data</a></td>
-        <td><a href="https://data.norge.no/?orgPath=%2FKOMMUNE%2F942110464">Felles datakatalog</a></td>
+        <td><a href="https://data.norge.no/datasets?orgPath=%2FKOMMUNE%2F942110464">Felles datakatalog</a></td>
         <td><a href="https://data.trondheim.kommune.no/">Own portal</a>, <a href="https://open.stavanger.kommune.no/organization/trondheim-kommune">Other</a></td>
     </tr>
     <tr>
         <td>Stavanger</td>
         <td><a href="https://kartkatalog.geonorge.no/search?Facets%5B0%5D.name=organization&Facets%5B0%5D.value=Stavanger%20kommune">Map data</a></td>
-        <td><a href="https://data.norge.no/?orgPath=%2FKOMMUNE%2F964965226">Felles datakatalog</a></td>
+        <td><a href="https://data.norge.no/datasets?orgPath=%2FKOMMUNE%2F964965226">Felles datakatalog</a></td>
         <td><a href="https://open.stavanger.kommune.no">Own portal</a></td>
     </tr>
     <tr>
@@ -89,7 +89,7 @@ Open data from Norwegian municipalities can be found in various catalogues, such
     <tr>
         <td>Tromsø</td>
         <td><a href="https://kartkatalog.geonorge.no/search?Facets%5B0%5D.name=organization&Facets%5B0%5D.value=Tromsø%20kommune">Map data</a></td>
-        <td><a href="https://data.norge.no/?orgPath=%2FKOMMUNE%2F940101808">Felles datakatalog</a></td>
+        <td><a href="https://data.norge.no/datasets?orgPath=%2FKOMMUNE%2F940101808">Felles datakatalog</a></td>
         <td><a href="http://data-tromso.opendata.arcgis.com/">Tromsø kommune åpne kartdata</a></td>
     </tr>
     <tr>
