@@ -90,7 +90,7 @@ Open data from Norwegian municipalities can be found in various catalogues, such
         <td>Tromsø</td>
         <td><a href="https://kartkatalog.geonorge.no/search?Facets%5B0%5D.name=organization&Facets%5B0%5D.value=Tromsø%20kommune">Map data</a></td>
         <td><a href="https://data.norge.no/datasets?orgPath=%2FKOMMUNE%2F940101808">Felles datakatalog</a></td>
-        <td><a href="http://data-tromso.opendata.arcgis.com/">Tromsø kommune åpne kartdata</a></td>
+        <td><a href="http://hub.arcgis.com/search?source=troms%C3%B8%20kommune">Tromsø kommune åpne kartdata</a></td>
     </tr>
     <tr>
         <td>Drammen</td>
@@ -103,7 +103,7 @@ Open data from Norwegian municipalities can be found in various catalogues, such
 ### Norwegian goverment agencies, etc.
 
 Data from Norwegian government agencies:
-- [The Brønnøysunn Register Centre](https://www.brreg.no/products-and-services/open-data/)
+- [The Brønnøysund Register Centre](https://www.brreg.no/produkter-og-tjenester/apne-data/)
 - [Directorate of Fisheries](https://www.fiskeridir.no/Statistikk/AApne-data/AApne-datasett)
 - [Norwegian Mapping Authority](https://kartverket.no/data/)
 - [Norwegian Meteorological Institute](https://www.met.no/frie-meteorologiske-data)
