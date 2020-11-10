@@ -5,6 +5,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/header.svg
   caption:
+title: 'OpenDataLab.no'
 excerpt: 'A site for publishers and users of open data'
 intro: 
   - excerpt: "This lab is hosted by [SINTEF](http://www.sintef.no).<br/>The purpose of the lab is to experiment with support and tools for overcoming barriers to publication and use of open data. We would like to test the lab in collaboration with hackatons and other initiatives for use of (open) data."
@@ -56,6 +57,8 @@ feature_row2:
     
 ---
 
+# The Open Data Challenge is being rescheduled
+# New tentative date is 28th January, 2021
 <embed src="/assets/images/OpenDataChallenge2020.pdf" height="400" type="application/pdf" />
 
 ----
