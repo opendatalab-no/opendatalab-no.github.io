@@ -21,7 +21,6 @@ A good starting point to locate datasets is in open data catalogues and portals.
 In Norway, the following catalogues and portals are good soures:
 - [Norway's official catalog for open data from public sector (Felles datakatalog)](https://data.norge.no/)
 - [Geonorge - national site for map data](https://www.geonorge.no/en/)
-- [Urbalurba's portal for Norwegian smart city data](http://www.urbalurba.no)  
 
 ### Norwegian municipalities
 
