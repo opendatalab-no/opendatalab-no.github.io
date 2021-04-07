@@ -57,10 +57,6 @@ feature_row2:
     
 ---
 
-<embed src="/assets/images/OpenDataChallenge2020.pdf" height="400" type="application/pdf" />
-
-----
-
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
