@@ -59,6 +59,17 @@ feature_row2:
 
 {% include feature_row id="intro" type="center" %}
 
+## Latest news
+{% for post in site.posts limit:1 %}
+{% capture notice-2 %}
+#### [{{post.title}}]({{post.url}})
+{{post.excerpt}}
+{% endcapture %}
+<div class="notice--primary">{{ notice-2 | markdownify }}</div>
+{% endfor %}
+
+[More news](/news){: .btn .btn--inverse}
+
 {% include feature_row %}
 
 {% include feature_row id="feature_row2" %}
