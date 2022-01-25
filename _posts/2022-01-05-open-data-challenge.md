@@ -1,6 +1,6 @@
 ---
-title: "Open Data Challenge 2022 - Trondheim/Oslo/Digital January 27th, 2022"
-date: 2022-01-05 14:30:00 +0100
+title: "Open Data Challenge 2022 - Trondheim/Oslo/Digital - NEW DATE! - March 10th, 2022"
+date: 2022-01-25 15:08:00 +0100
 author: "Erlend Stav"
 categories:
   - blog
